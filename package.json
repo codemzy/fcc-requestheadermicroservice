@@ -1,0 +1,14 @@
+{
+  "name": "fcc-request-microservice",
+  "description": "A request header parser microservice built for a FCC basejump",
+  "version": "1.0.0",
+  "author": {
+    "name": "codemzy"
+  },
+  "dependencies": {
+    "express": "~4.13.x"
+  },
+  "engines": {
+    "node": "4.2.4"
+  }
+}
